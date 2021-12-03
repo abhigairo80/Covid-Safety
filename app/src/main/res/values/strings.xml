@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Covid_Safety</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="my_profile">Profile</string>
+    <string name="mobile">Mobile</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_your_name">ENTER YOUR NAME</string>
+    <string name="enter_your_address">ENTER YOUR ADDRESS</string>
+    <string name="enter_your_phone_no">ENTER YOUR PHONE NO.</string>
+    <string name="enter_your_gate_entry_id">ENTER YOUR GATE ENTRY ID</string>
+    <string name="generate">GENERATE</string>
+    <string name="take_screenshot_once_the_qr_is_generated">Take Screenshot Once the QR is generated.</string>
+    <string name="back_to_main_page">Back to main page</string>
+    <string name="thanks_for_using_this_application">Thanks for using this application</string>
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Collaborate and Plan Together Across Multiple Devices on Projemanag’s Minimalist Interface.</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+
+</resources>

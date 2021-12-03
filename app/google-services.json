@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848586237491",
+    "project_id": "covid-safety-c2eed",
+    "storage_bucket": "covid-safety-c2eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848586237491:android:29b23f341d11bf54876546",
+        "android_client_info": {
+          "package_name": "com.example.covidsafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848586237491-h6bmfic3rp267qtoav3aon7ajacbb209.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCBIHGKZblLZYxcuguRtIkXiRHd8XSnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848586237491-h6bmfic3rp267qtoav3aon7ajacbb209.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
