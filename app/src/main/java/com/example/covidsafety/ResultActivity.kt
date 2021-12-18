@@ -1,7 +1,7 @@
 package com.example.covidsafety
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
+
 import android.graphics.Bitmap
 import android.graphics.Color
 
@@ -9,6 +9,7 @@ import android.os.Bundle
 
 import android.util.Log
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import com.google.zxing.BarcodeFormat
 import com.google.zxing.MultiFormatWriter
 import com.google.zxing.WriterException
@@ -18,7 +19,8 @@ import kotlinx.android.synthetic.main.activity_result.*
 
 
 
-private const val  tag="page9"
+//private const val  tag="page9"
+
 class ResultActivity : AppCompatActivity()
 {
 
@@ -136,7 +138,7 @@ class ResultActivity : AppCompatActivity()
                 }
             }
         }catch (e:WriterException){
-            Log.d(tag,"GenerateQRCode:${e.message}")
+            Log.d(e.toString(),"GenerateQRCode:${e.message}")
         };return bitmap
     }
 }
